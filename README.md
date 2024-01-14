@@ -15,3 +15,4 @@ del %temp%\*.* /s /q
 - Ontwikkel diverse apps, zoals een thee-app, en maak deze beschikbaar om te downloaden.
 
 Voeg het `dir`-commando toe voor extra functionaliteit.
+'Nog niet af'
